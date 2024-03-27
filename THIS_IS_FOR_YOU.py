@@ -24,6 +24,8 @@ ax.set_xlim(-3, 3)
 ax.set_ylim(-10, 10)
 line1, = ax.plot([], [], color='r')
 line2, = ax.plot([], [], color='r')
+plt.xticks([], [])
+plt.yticks([], [])
 
 plt.title('This is for you!❤')
 

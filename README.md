@@ -6,6 +6,7 @@
 
 $x^{2/3} + e/3 * ((pi - x^{2})^{1/2}) * sin(a * pi * x)$
 
-### video    
+### Video    
 <hr>
-<video controls src="heart.mp4" />
+
+![](heart.gif)
