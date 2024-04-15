@@ -10,3 +10,6 @@ $x^{2/3} + e/3 * ((pi - x^{2})^{1/2}) * sin(a * pi * x)$
 <hr>
 
 ![](heart.gif)
+
+
+![](Figure_1.png)
