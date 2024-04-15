@@ -29,6 +29,9 @@ def make_for_you():
     plt.scatter(x, y3, s=scalar, color='r', marker=heart_path)
     plt.title('THIS IS FOR YOU!!♥')
     plt.grid(False)
+    plt.xticks([], [])
+    plt.yticks([], [])
+    plt.savefig('heart.png')
     plt.show()
 
 make_for_you()
